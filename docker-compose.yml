@@ -9,7 +9,7 @@ services:
     container_name: reelsai
     restart: unless-stopped
     volumes:
-      - "INSERT PATH HERE":/app/assets/background_videos
+      - "INSERT PATH HERE:/app/assets/background_videos"
     ports:
       - "8501:8501"
     
