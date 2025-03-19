@@ -1,0 +1,15 @@
+version: "3.9"
+services:
+  kokoro-tts:
+    image: mattestanka/kokorocpu:latest
+    container_name: kokorotts
+    restart: unless-stopped
+  reelsai:
+    image: mattestanka/reelsai:latest
+    container_name: reelsai
+    restart: unless-stopped
+    volumes:
+      - "INSERT PATH HERE":/app/assets/background_videos
+    ports:
+      - "8501:8501"
+    
