@@ -110,10 +110,7 @@ etc.
 For a demonstration of how ReelsAI works, check out [this YouTube video](https://youtu.be/UrhNAN6KP_Y?si=460zR_JwWp920IHy).\
 The video includes a demo of the tool in action and a tutorial on how to get it running natively (excluding the Kokoro setup part).
 
-For a quick start guide for windows check ot this&#x20;
-
-
-
+For a quick start guide for windows check out [this YouTube video](https://youtu.be/ZFEPiPGhfR0).\
 
 
 ---
