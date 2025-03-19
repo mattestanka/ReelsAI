@@ -1,6 +1,7 @@
 # ReelsAI
 
 **A quick and easy way to leverage [Kokoro TTS](https://github.com/hexgrad/kokoro) to automate the creation of short-form video content.**
+
 This Python script runs natively on your system, while Kokoro AI can be used via Docker, ensuring broad compatibility across operating systems. I use Linux, but you can install it on Windows, macOS, and more.
 
 ## Prerequisites
